@@ -1,0 +1,13 @@
+[
+  {
+    "id": "fixli_init_001",
+    "name": "Тестовый лид",
+    "phone": "0522038034",
+    "status": "QUALIFIED",
+    "source": "Meta Ads",
+    "calc_details": "3 комнаты, 2 этаж, лифт",
+    "est_price": "1,450 ₪",
+    "created_at": "2026-10-28T20:45:00.000Z",
+    "notes": "Андреас связался, дата 5 ноября"
+  }
+]
